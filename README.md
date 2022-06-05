@@ -8,7 +8,6 @@ The program itself is built in Python and has a simple UI through the terminal. 
 
 I've always thought that cloud databases are extremely fascinating and getting to use one was satisfying, even if it was just to scratch the surface. My purpose in creating this program was to give me a starting point so that I don't have to go through so much of the first few hours of the sometimes agonizing integration that comes with learning new software. Hopefully when I create a project in the future with a cloud database, I can look back to this repository and learn from my documenation and get into more complicated data storage. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
 
 [Software Demo Video](https://youtu.be/efH7XZg7Vy4)
 
@@ -26,7 +25,7 @@ Visual Studio Code
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [Python Website - Firebase Docs](https://pypi.org/project/firebase/)
 * [Packages and Python Pip](https://packaging.python.org/en/latest/tutorials/installing-packages/)
 * [Firebase Admin Set Up](https://firebase.google.com/docs/admin/setup#python)
@@ -35,7 +34,7 @@ Visual Studio Code
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+
 * I would like to add another table to this cloud database - perhaps a 'Payments' collection where the user could query data about different payment options. 
 * Would like to store more things than basic datatypes. 
 * Give more options for querying the data which could include seperating each 'document' into a whole new collection based upon whether it is an edible, topical, garment, household item etc. 
